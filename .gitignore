@@ -116,3 +116,7 @@ GitHub.sublime-settings
 .history
 t.py
 /app
+.idea
+env.sh
+/env.sh
+.env.sh
